@@ -4,4 +4,4 @@ kind: Kustomization
 
 resources:
   - subscription.yaml
-  - https://github.com/rohittaneja0/kyverno-test/blob/main/kustomization.yaml
+  - https://raw.githubusercontent.com/rohit-taneja-redhat/gitops-catalog/refs/heads/main/grafana-operator/base/operator/kustomization.yaml
