@@ -4,4 +4,4 @@ kind: Kustomization
 
 resources:
   - subscription.yaml
-  - https://raw.githubusercontent.com/rohittaneja0/kyverno-test
+  - https://github.com/rohittaneja0/kyverno-test.git
